@@ -34,5 +34,7 @@ for d in data:
 print("Total have", len(good), "mentioned good")
 print(good[0])
 
+# good = [d for d in data if "good" in d]
+
 
 
